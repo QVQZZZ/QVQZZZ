@@ -24,11 +24,11 @@ Feel free to reach out to me with any questions or for a chat!
 
 ## 🛠 Main Tech Stack
 <p align="center">
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>  
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code> 
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
 <br/> 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code> 
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 </p>
@@ -36,10 +36,10 @@ Feel free to reach out to me with any questions or for a chat!
 
 ## 💻 Open Source Work Stats & Repos
 <p align="center">
-<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=QVQZZZ&hide=prs&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true&theme=dark)"/>  
+<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=QVQZZZ&hide=prs&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true&theme=dark)"/>   
 </p>
 
-- [「HeFlwr」- A Federated Learning Framework for Heterogeneous Devices](https://github.com/QVQZZZ/HeFlwr) 
+- [「HeFlwr」- A Federated Learning Framework for Heterogeneous Devices](https://github.com/QVQZZZ/HeFlwr)  
 
 - [「NopaPy」- An open-source and user-friendly nonparametric statistics Python library.](https://github.com/QVQZZZ/NopaPy)
 
