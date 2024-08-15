@@ -14,13 +14,13 @@ I'm Zhu Yaolin, currently pursuing a Master's degree in Computer Science.
 Feel free to reach out to me with any questions or for a chat! 
 
 ## 👩‍💻 I'm Working on
-- Currently pursuing a master's degree in **Computer Science**. 
+- Currently pursuing a master's degree in <span style="color:#3498db;"><b>Computer Science</b></span>.
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>    
-- Focusing on **Federated Learning** and **Edge Computing**.  
+- Focusing on <span style="color:#e74c3c;"><b>Federated Learning</b></span> and <span style="color:#e74c3c;"><b>Edge Computing</b></span>. 
 
-- Interested in **LLMs** and **Recommender Systems**! 
+- Interested in <span style="color:#f1c40f;"><b>LLMs</b></span> and <span style="color:#f1c40f;"><b>Recommender Systems</b></span>! 
 
-- Aspiring to learn **HPC** and **Flink**.
+- Aspiring to learn <span style="color:#2ecc71;"><b>HPC</b></span> and <span style="color:#2ecc71;"><b>Flink</b></span>.
 
 ## 🛠 Main Tech Stack
 <p align="center">
