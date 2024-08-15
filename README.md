@@ -11,20 +11,20 @@ Welcome to my GitHub page!
 
 I'm Zhu Yaolin, currently pursuing a Master's degree in Computer Science.
 
-Feel free to reach out to me with any questions or for a chat!
+Feel free to reach out to me with any questions or for a chat! 
 
 ## 👩‍💻 I'm Working on
-- Currently pursuing a master's degree.
+- Currently pursuing a master's degree in **Computer Science**. 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>    
-- Focusing on Federated Learning and Edge Computing.  
+- Focusing on **Federated Learning** and **Edge Computing**.  
 
-- Interested in LLMs and Recommender Systems! 
+- Interested in **LLMs** and **Recommender Systems**! 
 
-- Aspiring to learn HPC and Flink.
+- Aspiring to learn **HPC** and **Flink**.
 
 ## 🛠 Main Tech Stack
 <p align="center">
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
 <br/>
