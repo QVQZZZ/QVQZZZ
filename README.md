@@ -33,11 +33,9 @@ Feel free to reach out to me with any questions or for a chat! 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code> 
 </p>
 
-
 ## 💻 Open Source Work Stats & Repos
-
 <p align="center">
-<img title="My status" height="320" width="420" src="https://github-readme-stats.vercel.app/api?username=QVQZZZ&hide=prs&count_private=true&icon_color=00CC66&title_color=006633&bg_color=FFFFFF&show_icons=true&theme=light"/>
+<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=QVQZZZ&hide=prs&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true&theme=dark)"/>
 </p>
 
 - [「HeFlwr」- A Federated Learning Framework for Heterogeneous Devices](https://github.com/QVQZZZ/HeFlwr)  
