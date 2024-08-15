@@ -28,7 +28,7 @@ Feel free to reach out to me with any questions or for a chat! 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code> 
 <br/>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>  
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>  
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code> 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code> 
 </p>
