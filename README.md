@@ -16,7 +16,7 @@ Feel free to reach out to me with any questions or for a chat!
 ## 👩‍💻 I'm Working on
 - Currently pursuing a master's degree.
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>    
-- Focusing on Federated Learning and Edge Computing. 
+- Focusing on Federated Learning and Edge Computing.  
 
 - Interested in LLMs and Recommender Systems! 
 
@@ -24,13 +24,13 @@ Feel free to reach out to me with any questions or for a chat!
 
 ## 🛠 Main Tech Stack
 <p align="center">
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
-<br/> 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<br/>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code> 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code> 
 </p>
 
 
