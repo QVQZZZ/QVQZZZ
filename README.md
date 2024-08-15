@@ -16,11 +16,11 @@ Feel free to reach out to me with any questions or for a chat! 
 ## 👩‍💻 I'm Working on
 - Currently pursuing a master's degree in *Computer Science*.  
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>      
-- Focusing on **Federated Learning** and **Edge Computing**.  
+- Focusing on *Federated Learning* and *Edge Computing*.   
 
-- Interested in **LLMs** and **Recommender Systems**! 
+- Interested in *LLMs* and *Recommender Systems*!  
 
-- Aspiring to learn **HPC** and **Flink**.
+- Aspiring to learn *HPC** and *Flink*. 
 
 ## 🛠 Main Tech Stack
 <p align="center">
