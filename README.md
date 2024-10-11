@@ -40,6 +40,6 @@ Feel free to reach out to me with any questions or for a chat! 
 
 - [「HeFlwr」- A Federated Learning Framework for Heterogeneous Devices](https://github.com/QVQZZZ/HeFlwr)  
 
-- [「NopaPy」- An open-source and user-friendly nonparametric statistics Python library.](https://github.com/QVQZZZ/NopaPy)
+- [「NopaPy」- An open-source and user-friendly nonparametric statistics Python library](https://github.com/QVQZZZ/NopaPy)
 
 # 𝐆𝐨𝐨𝐝𝐛𝐲𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/QVQZZZ/QVQZZZ/blob/main/pictures/Hi.gif" width="40px">
